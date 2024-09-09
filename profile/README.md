@@ -1,6 +1,6 @@
 # TMIP
 
-*The Tranposrt Matrix Intercomparison Project*
+*The Transport Matrix Intercomparison Project*
 
 ---
 
